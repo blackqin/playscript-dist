@@ -4,3 +4,6 @@
 [submodule "playscript-monodevelop"]
 	path = playscript-monodevelop
 	url = https://github.com/playscript/playscript-monodevelop.git
+[submodule "playscript-monodevelop-binding"]
+	path = playscript-monodevelop-binding
+	url = git@github.com:playscript/playscript-monodevelop-binding.git
