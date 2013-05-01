@@ -1,0 +1,6 @@
+[submodule "playscript-mono"]
+	path = playscript-mono
+	url = https://github.com/playscript/playscript-mono.git
+[submodule "playscript-monodevelop"]
+	path = playscript-monodevelop
+	url = https://github.com/playscript/playscript-monodevelop.git
