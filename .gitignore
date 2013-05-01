@@ -1,3 +1,8 @@
 .DS_Store
 playscript-mono-inst/
 playscript-monodevelop-inst/
+package-osx/PlayScript.framework/
+package-osx/build/
+package-osx/build_debug/
+*.dmg
+

@@ -1,0 +1,9 @@
+prefix=/Library/Frameworks/PlayScript.framework/Versions/Current
+exec_prefix=${prefix}/bin
+libdir=${prefix}/lib
+
+
+Name: PlayScript
+Description: A compiler for our cross platform world
+Version: 1.2.0
+Libs: -r:${libdir}/pscorlib.dll -r:${libdir}/PlayScript.Dynamic.dll -r:${libdir}/Mono.PlayScript.dll -r:${libdir}/pscorlib_aot.dll -r:${libdir}/PlayScript.Dynamic_aot.dll
