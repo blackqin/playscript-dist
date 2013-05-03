@@ -7,3 +7,9 @@
 [submodule "playscript-monodevelop-binding"]
 	path = playscript-monodevelop-binding
 	url = git@github.com:playscript/playscript-monodevelop-binding.git
+[submodule "playscript-monodevelop-binding-ios"]
+	path = playscript-monodevelop-binding-ios
+	url = git@github.com:playscript/playscript-monodevelop-binding-ios.git
+[submodule "playscript-monodevelop-binding-android"]
+	path = playscript-monodevelop-binding-android
+	url = git@github.com:playscript/playscript-monodevelop-binding-android.git
