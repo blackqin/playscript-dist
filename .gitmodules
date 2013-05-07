@@ -13,3 +13,12 @@
 [submodule "playscript-monodevelop-binding-android"]
 	path = playscript-monodevelop-binding-android
 	url = git@github.com:playscript/playscript-monodevelop-binding-android.git
+[submodule "playscript-starling"]
+	path = playscript-starling
+	url = git@github.com:playscript/playscript-starling.git
+[submodule "playscript-away3d-core"]
+	path = playscript-away3d-core
+	url = git@github.com:playscript/playscript-away3d-core.git
+[submodule "playscript-away3d-examples"]
+	path = playscript-away3d-examples
+	url = git@github.com:playscript/playscript-away3d-examples.git
