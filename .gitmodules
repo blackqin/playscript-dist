@@ -22,3 +22,6 @@
 [submodule "playscript-away3d-examples"]
 	path = playscript-away3d-examples
 	url = git@github.com:playscript/playscript-away3d-examples.git
+[submodule "playscript"]
+	path = playscript
+	url = git@github.com:playscript/playscript.git
