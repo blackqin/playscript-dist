@@ -1,0 +1,8 @@
+<WorkspaceItem ctype="Workspace">
+  <Items>
+    <Item>./playscript-starling/samples/demo_mono.sln</Item>
+    <Item>./playscript-mono/mcs/mcs/mcs.sln</Item>
+    <Item>./playscript-monodevelop-binding/PlayScriptBinding.sln</Item>
+    <Item>./playscript-away3d-examples/away3d-examples.sln</Item>
+  </Items>
+</WorkspaceItem>
