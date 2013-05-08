@@ -25,3 +25,6 @@
 [submodule "playscript"]
 	path = playscript
 	url = git@github.com:playscript/playscript.git
+[submodule "playscript-base"]
+	path = playscript-base
+	url = git@github.com:playscript/playscript-base.git
